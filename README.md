@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon-512.png" width="128" height="128" alt="CleanAI 4U Icon" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(16, 185, 129, 0.4);" />
+</p>
+
 # 🛡️ CleanAI 4U — Removedor de Metadados e Assinaturas de IA
 
 > **Higienizador de mídias (Fotos e Vídeos) para proteção de privacidade e neutralização de marcações automáticas de IA (*"Made with AI"* / C2PA / Content Credentials).**
